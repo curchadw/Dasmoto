@@ -1,0 +1,66 @@
+*{
+    box-sizing: border-box;
+}
+
+
+/* //header section*/
+
+body{
+    max-height: 1200px;
+    font-size: 1em;
+    font-family: Helvetica, Arial, sans-serif;
+    max-width: 1200px;
+    margin: auto auto;
+} 
+header{
+    width: 100%;
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
+    margin: 100px auto;
+}
+
+#title{
+    color: khaki;
+    text-align: center;
+    font-weight: bold;
+    font-size: 100px;
+    font-family:  Helvetica, Arial, sans-serif;
+}   
+
+
+/*green bar area*/
+
+#green{
+    width: 100%;
+    background-color: mediumspringgreen;
+    margin: 25px auto;
+}
+
+/* red bar area */
+#red{
+    width: 100%;
+    background-color: lightcoral;
+    margin: 50px auto;
+}
+
+
+/* blue bar area */
+#blue{
+    width: 100%;
+    background-color: skyblue;
+    margin: 50px auto;
+}
+
+
+
+.catagories{
+    
+    font-family:  Helvetica, Arial, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.price{
+    font-weight: bold;
+    color: blue;
+}
